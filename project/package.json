@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2",
+    "gsap": "^3.12.2",
+    "locomotive-scroll": "^4.1.4",
+    "@fancyapps/ui": "^5.0.28"
+  }
+}
